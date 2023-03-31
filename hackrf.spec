@@ -5,7 +5,7 @@
 
 Name:           hackrf
 Version:	2022.09.1
-Release:	1
+Release:	2
 Summary:        A project to produce a low cost open source software radio platform
 Group:          Communications/Radio
 License:        GPLv2
