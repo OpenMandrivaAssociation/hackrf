@@ -4,8 +4,8 @@
 #define devstat %%mklibname %%{name} -d -s
 
 Name:           hackrf
-Version:	2022.09.1
-Release:	2
+Version:	2023.01.1
+Release:	1
 Summary:        A project to produce a low cost open source software radio platform
 Group:          Communications/Radio
 License:        GPLv2
